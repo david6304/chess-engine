@@ -1,0 +1,1 @@
+pygameconda install pip --force-reinstall
